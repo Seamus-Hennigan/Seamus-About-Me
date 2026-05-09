@@ -1,90 +1,64 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=header"/>
+# 💫 About Me
 
-<h1 align="center">Seamus Hennigan</h1>
+I'm a Junior at Johnson & Wales University studying Cyber Threat Intelligence & Defense (Class of 2028). Currently an Assistant Network Technician supporting campus network operations, where I troubleshoot issues, configure switches and access points, and help manage infrastructure.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Cloud+Security+%7C+Cyber+Threat+Intelligence+%7C+InfoSec;Seeking+Internships+in+Cloud+Security+%26+Cyber+Defense" alt="Typing SVG" />
-</p>
+My focus is Cloud Security Engineering, with an interest in Information Security for the finance industry. Always open to connecting with others in cloud security and cyber defense.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Seamus-Hennigan&label=Profile%20views&color=0e75b6&style=flat" alt="Seamus-Hennigan" />
-</p>
+## 🌐 Socials
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seamus-hennigan-960a43296/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:seamuscody123@gmail.com)
 
-Junior at **Johnson & Wales University** studying **Cyber Threat Intelligence & Defense** (Class of 2028). Currently an Assistant Network Technician supporting campus network operations — troubleshooting issues, configuring switches and access points, and helping manage infrastructure. Focused on Cloud Security Engineering with an interest in Information Security for the finance industry. Always open to connecting with others in cloud security and cyber defense.
+## 💻 Tech Stack
 
----
+**Languages"**
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Bash](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/seamus-hennigan-960a43296/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin"/></a>
-  <a href="mailto:seamuscody123@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail"/></a>
-</p>
+**Cloud & DevOps:**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 
----
+**Databases:**
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 
-<h3 align="center">Tech Stack</h3>
+**Monitoring & Tools:**
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,js,java,bash" height="55" alt="languages-row-1"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="55" alt="c"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="55" alt="cplusplus"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=html" height="55" alt="html"/>
-</div>
+## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins" height="55" alt="cloud-row"/>
-  <img width="12"/>
-  <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="55" alt="cloudflare"/>
-  <img width="12"/>
-  <img src="https://cdn.simpleicons.org/apache/D22128" height="55" alt="apache"/>
-</div>
+![Stats](https://github-readme-stats.shion.dev/api?username=Seamus-Hennigan&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false)
+![Streak](https://streak-stats.demolab.com/?user=Seamus-Hennigan&theme=codeSTACKr&hide_border=false)
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Seamus-Hennigan&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="55" alt="mysql"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="55" alt="postgresql"/>
-  <img width="12"/>
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="55" alt="mongodb"/>
-  <img width="12"/>
-  <img src="https://cdn.simpleicons.org/neo4j/4581C3" height="55" alt="neo4j"/>
-  <img width="12"/>
-  <img src="https://cdn.simpleicons.org/grafana/F46800" height="55" alt="grafana"/>
-  <img width="12"/>
-  <img src="https://cdn.simpleicons.org/prometheus/E6522C" height="55" alt="prometheus"/>
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=git" height="55" alt="git"/>
-</div>
+## 🏆 GitHub Trophies
 
----
+![Trophies](https://github-profile-trophy.vercel.app/?username=Seamus-Hennigan&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-<h3 align="center">Projects</h3>
+## 🔝 Top Contributed Repos
 
-| Project | Description | Language | Stars |
-|---------|-------------|----------|-------|
-| [WeatherETL](https://github.com/Seamus-Hennigan/WeatherETL) | Serverless, secure automated weather data pipeline built on AWS | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![Stars](https://img.shields.io/github/stars/Seamus-Hennigan/WeatherETL?style=flat&color=0e75b6) |
-| [Signal-Keylogger](https://github.com/Seamus-Hennigan/Signal-Keylogger) | Remote keylogger capturing keystrokes, geo-location, and system info | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![Stars](https://img.shields.io/github/stars/Seamus-Hennigan/Signal-Keylogger?style=flat&color=0e75b6) |
+![Top Repos](https://github-contributor-stats.vercel.app/api?username=Seamus-Hennigan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
-<h3 align="center">GitHub Activity</h3>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Seamus-Hennigan/Seamus-Hennigan/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Seamus-Hennigan/Seamus-Hennigan/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Seamus-Hennigan/Seamus-Hennigan/pacman-output/pacman-contribution-graph.svg">
-</picture>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Seamus-Hennigan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seamus-Hennigan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Seamus-Hennigan&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=80&section=footer"/>
+[![Profile Views](https://komarev.com/ghpvc/?username=Seamus-Hennigan&icon=1&color=0)](https://visitcount.itsvg.in)
