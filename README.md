@@ -54,11 +54,3 @@ My focus is Cloud Security Engineering, with an interest in Information Security
 ## 🏆 GitHub Trophies
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Seamus-Hennigan&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-## 🔝 Top Contributed Repos
-
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=Seamus-Hennigan&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Seamus-Hennigan&icon=1&color=0)](https://visitcount.itsvg.in)
