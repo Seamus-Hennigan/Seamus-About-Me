@@ -54,17 +54,17 @@ My focus is Cloud Security Engineering, with an interest in Information Security
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.shion.dev/api?username=Seamus-Hennigan&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false" height="180" alt="stats"/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Seamus-Hennigan&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="180" alt="top languages"/>
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Seamus-Hennigan&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false&card_width=445&border_radius=10" height="195" alt="stats"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Seamus-Hennigan&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false&layout=compact&card_width=445&border_radius=10" height="195" alt="top languages"/>
 </p>
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=Seamus-Hennigan&theme=codeSTACKr&hide_border=false" height="180" alt="streak"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Seamus-Hennigan&theme=codeSTACKr&hide_border=false&card_width=895&border_radius=10" alt="streak"/>
 </p>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Seamus-Hennigan&theme=tokyonight&no-frame=false&no-bg=false&margin-w=10&column=7" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Seamus-Hennigan&theme=tokyonight&no-frame=false&no-bg=false&margin-w=10&column=4&row=2" alt="trophies"/>
 </p>
