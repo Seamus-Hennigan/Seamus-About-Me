@@ -11,7 +11,7 @@ My focus is Cloud Security Engineering, with an interest in Information Security
 
 ## 💻 Tech Stack
 
-**Languages"**
+**Languages**
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -23,7 +23,7 @@ My focus is Cloud Security Engineering, with an interest in Information Security
 ![Bash](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
-**Cloud & DevOps:**
+**Cloud & DevOps**
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -32,24 +32,39 @@ My focus is Cloud Security Engineering, with an interest in Information Security
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 
-**Databases:**
+**Databases**
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 
-**Monitoring & Tools:**
+**Monitoring & Tools**
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+## 👾 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Seamus-Hennigan/Seamus-Hennigan/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Seamus-Hennigan/Seamus-Hennigan/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Seamus-Hennigan/Seamus-Hennigan/pacman-output/pacman-contribution-graph.svg">
+</picture>
+
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.shion.dev/api?username=Seamus-Hennigan&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false)
-![Streak](https://streak-stats.demolab.com/?user=Seamus-Hennigan&theme=codeSTACKr&hide_border=false)
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Seamus-Hennigan&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="left">
+  <img src="https://github-readme-stats.shion.dev/api?username=Seamus-Hennigan&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false" height="180" alt="stats"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Seamus-Hennigan&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="180" alt="top languages"/>
+</p>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=Seamus-Hennigan&theme=codeSTACKr&hide_border=false" height="180" alt="streak"/>
+</p>
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Seamus-Hennigan&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Seamus-Hennigan&theme=tokyonight&no-frame=false&no-bg=false&margin-w=10&column=7" alt="trophies"/>
+</p>
