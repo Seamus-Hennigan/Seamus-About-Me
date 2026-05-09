@@ -47,9 +47,9 @@ My focus is Cloud Security Engineering, with an interest in Information Security
 ## 👾 Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Seamus-Hennigan/Seamus-Hennigan/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Seamus-Hennigan/Seamus-Hennigan/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Seamus-Hennigan/Seamus-Hennigan/pacman-output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Seamus-Hennigan/Seamus-Hennigan/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Seamus-Hennigan/Seamus-Hennigan/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Seamus-Hennigan/Seamus-Hennigan/output/pacman-contribution-graph.svg">
 </picture>
 
 ## 📊 GitHub Stats
